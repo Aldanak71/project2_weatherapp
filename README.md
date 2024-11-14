@@ -11,3 +11,8 @@ The **Weather Web App** allows users to view the current weather and forecasts b
 1. 
    ```bash
    git clone https://github.com/Aldanak71/project2_weatherapp
+
+## Screenshots
+Here is a screenshot of the main page:
+
+![Main Page Screenshot](images/image.png)
